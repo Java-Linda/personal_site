@@ -1,0 +1,49 @@
+.Header {
+    color: rgb(107, 64, 237);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    text-align: right;
+    background-color: rgb(229, 181, 239);
+    border: 1px solid;
+    height: 120px;
+    width: 100%;
+  }
+
+body{
+  background-color: peachpuff;
+}
+
+h1 {
+    color: rgb(233, 40, 243);
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+h2 {
+    color: navy;
+    text-align: center;
+    font-size: 50px;
+  }
+  
+h3 {
+    color: rgb(255, 94, 0);
+    text-align: center;
+    font-size: 25px;
+  }
+
+h4 {
+    color: rgb(75, 143, 36);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 42px;
+  }
+
+h5 {
+    display: inline-block;
+    color:rgb(0, 255, 234);
+}
+  
+  /*# sourceMappingURL=index.css.map */
