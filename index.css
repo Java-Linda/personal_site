@@ -1,16 +1,31 @@
 .Header {
-    color: grey;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: inline-block;
     text-align: right;
     background-color: ;
-    border: 1px solid;
     height: 200px;
     width: 1000px;
   }
 
-body {
+h1 {
+    color: rgb(106, 105, 105);
+    text-align: left;
+    font-size: 60px;
     font-family: “Lexend-Peta”, sans-serif;
+  }
+
+h2 {
+    color:  rgb(8, 43, 8);
+    text-align: right;
+    font-size: 30px;
+  }
+
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: grey;
+}
+
+body {
     background-image: url(https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=800);
     background-size: cover;
     background-repeat: no-repeat;
@@ -20,26 +35,19 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     overflow: hidden;
-}
-
-h1 {
-    color: rgb(106, 105, 105);
-    text-align: left;
-    font-size: 60px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-h2 {
-    color:  rgb(3, 26, 3);
-    text-align: right;
-    font-size: 30px;
-  }
-  
-h3 {
-    color: whitesmoke;
     text-align: center;
+}
+  
+.navbar {
     font-size: 55px;
     display: inline-block;
+    text-align: center;
+  }
+
+a {
+  font-family: “Lexend-Peta”, sans-serif;
+  color: black;
+  text-decoration: none;
   }
 
 h4 {
@@ -48,11 +56,7 @@ h4 {
     text-align: center;
     margin-left: ;
     margin-right: ;
-    font-size: 40px;
+    font-size: 30px;
   }
-h5 {
-    text-align: center;
-    color: grey;
-}
   
   /*# sourceMappingURL=index.css.map */
