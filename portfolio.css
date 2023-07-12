@@ -4,10 +4,9 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   object-fit: fill;
-  height: 810px;
   max-width: 1000px;
   margin: 0 auto;
-  overflow: hidden;
+  /* overflow: hidden; */
   text-align: center;
 }
   

@@ -2,7 +2,7 @@
     display: inline-block;
     background-color: ;
     height: 200px;
-    width: 1000px;
+    width: 100vw;
   }
 
 h1 {
@@ -25,14 +25,18 @@ h5 {
   color: grey;
   }
 
+hr{
+    width: 100vw;
+  }
+
 body {
     background-image: url(https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=800);
     background-size: cover;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-position: center center;
     object-fit: fill;
-    height: 810px;
-    max-width: 1000px;
+    /*height: 810px;*/
+    width: 100vw;
     margin: 0 auto;
     overflow: hidden;
     text-align: center;
