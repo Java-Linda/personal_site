@@ -1,6 +1,5 @@
 .Header {
     display: inline-block;
-    background-color: ;
     height: 200px;
     width: 100vw;
   }
@@ -32,10 +31,8 @@ hr{
 body {
     background-image: url(https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=800);
     background-size: cover;
-    /*background-repeat: no-repeat;*/
     background-position: center center;
     object-fit: fill;
-    /*height: 810px;*/
     width: 100vw;
     margin: 0 auto;
     overflow: hidden;
@@ -62,8 +59,6 @@ h4 {
     color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    margin-left: ;
-    margin-right: ;
     font-size: 30px;
   }
   
